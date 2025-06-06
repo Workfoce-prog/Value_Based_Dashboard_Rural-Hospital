@@ -1,0 +1,8 @@
+Metric,Excellent (Green),Caution (Amber),High Risk (Red)
+Readmission Rate (%),<10%,10%–15%,>15%
+Chronic Disease Management Score,>=85,70–84,<70
+Patient Engagement Rate (%),>75%,60%–75%,<60%
+Population Health Index,>=80,60–79,<60
+Timely Follow-Up Rate (%),>85%,70%–85%,<70%
+Social Determinants Screening Rate (%),>90%,70%–90%,<70%
+Preventive Care Utilization (%),>70%,50%–70%,<50%

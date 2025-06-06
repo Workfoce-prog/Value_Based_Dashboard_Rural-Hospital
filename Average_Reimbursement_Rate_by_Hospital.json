@@ -1,0 +1,24 @@
+{
+    "type": "bar",
+    "title": "Average Reimbursement Rate by Hospital",
+    "labels": [
+        "Rural Med Center A",
+        "County General B",
+        "Regional Health C",
+        "Frontier Care D"
+    ],
+    "datasets": [
+        {
+            "label": "",
+            "data": [
+                380,
+                410,
+                395,
+                365
+            ],
+            "colors": []
+        }
+    ],
+    "x_label": "",
+    "y_label": "Avg Reimbursement Rate ($)"
+}
